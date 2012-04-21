@@ -5,6 +5,7 @@ class User {
     String name
     
     static constraints = {
+		name(size:1..1000)
     }
 
     @Override

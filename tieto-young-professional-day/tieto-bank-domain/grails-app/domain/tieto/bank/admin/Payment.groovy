@@ -2,6 +2,7 @@ package tieto.bank.admin
 
 
 class Payment {
+	
 
 	Date date
 
